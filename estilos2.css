@@ -1,0 +1,19 @@
+body{
+    background-image: url(gifdefondo2.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.boton2{
+    position: absolute;
+    top: 70%;
+    left: 0%;
+    bottom: 0%;
+    right: 0%;
+    margin: auto;
+    width: 100px;
+    height: 40px;
+    background-color:  rgb(188, 189, 103);
+
+
+}

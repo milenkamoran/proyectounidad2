@@ -1,0 +1,51 @@
+body{
+    background-image: url(gifdefondo3.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.div1{
+    border: 5px double black;
+    width: 550px;
+    height: 520px;
+    margin: 80px 370px;
+}
+.titulo1{
+    font-style: oblique;
+    padding: 3px 15px;
+}
+.parrafo1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 20px;
+    font-size: 18px;
+    text-align: left;
+
+}
+.parrafo2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 20px;
+    font-size: 19px;
+    text-align: left;
+
+}
+.audio{
+    padding: 5px 110px
+}
+.parrafo3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 20px;
+    font-size: 18px;
+    text-align: left;
+
+}
+.boton1{
+    position: absolute;
+    top: 75%;
+    left: 0%;
+    bottom: 0%;
+    right: 5%;
+    margin: auto;
+    width: 100px;
+    height: 40px;
+    background-color:  rgb(188, 189, 103);
+}
